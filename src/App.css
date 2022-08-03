@@ -1,0 +1,44 @@
+.uldecoration li {
+  list-style-type: none;
+}
+
+.uldecorationli {
+  padding-left: 20px;
+}
+
+.uldecoration {
+  margin: 0;
+  padding: 0;
+}
+
+.w-40 {
+  width: 40%
+}
+
+.bg-c-yellow {
+  background-color: #F5DA8D;
+}
+
+.bg-c-green {
+  background-color: #A7C48C;
+}
+
+.bg-c-white {
+  background-color: #DEDFDE;
+}
+
+.bg-c-orange {
+  background-color: #FAE4BD;
+}
+
+.w-70 {
+  width: 70%;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.w-40 {
+  width: 40%;
+}
